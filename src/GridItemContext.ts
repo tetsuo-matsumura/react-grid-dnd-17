@@ -1,5 +1,5 @@
 import * as React from "react";
-import { StateType } from "react-gesture-responder";
+import { StateType } from "react-gesture-responder-17";
 import { GridSettings } from "./grid-types";
 
 export interface GridItemContextType {

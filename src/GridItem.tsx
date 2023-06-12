@@ -3,7 +3,7 @@ import {
   StateType,
   useGestureResponder,
   ResponderEvent
-} from "react-gesture-responder";
+} from "react-gesture-responder-17";
 import { animated, interpolate, useSpring } from "react-spring";
 import { GridItemContext } from "./GridItemContext";
 
